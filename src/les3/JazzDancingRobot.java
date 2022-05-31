@@ -14,5 +14,6 @@ public class JazzDancingRobot extends DancingRobot {
     @Override
     public String getDanceType2() {
         return "jazz dance 2";
+
     }
 }

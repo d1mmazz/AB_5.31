@@ -18,5 +18,6 @@ public class Main {
         System.out.println("Dance Type2: " + robot.getDanceType2());
         System.out.println("Default Dance Type: " + robot.getDefaultDanceType());
         System.out.println("====================\n");
+
     }
 }
